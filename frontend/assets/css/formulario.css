@@ -1,0 +1,258 @@
+body{
+    background-image: url("https://th.bing.com/th/id/OIP.NTm1rowIvVH5AeQd_VPhEwHaEK?pid=ImgDet&rs=1");
+}
+
+.volver{
+    border-radius: 20px 20px 20px 20px;
+    margin-top: none;
+    cursor: pointer;
+    border: none;
+    background: none;
+}
+/* CSS DE REGISTRO DE PERSONAJE ANTIGUO
+.form-register {
+    width: 400px;
+    background: #24303c;
+    padding: 20px;
+    margin: auto;
+    border-radius: 4px;
+    color: white;
+}
+
+.form-register h4 {
+    font-size: 24px;
+    text-align: center;
+}
+
+.controls{
+    width: 95%;
+    background: #24303c;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 1px solid #1f53c5;
+    color: white;
+}
+
+#descripcionRegistrar{
+    height: 100px;
+    text-align: center;
+}
+
+.form-register .btnAddImage {
+   text-align: center;
+   cursor: pointer;
+   background: none;
+   border: none;
+   margin-left: 100px;
+}
+
+.registrar{
+    width: 100%;
+    background: #1f53c5;
+    border: none;
+    padding: 12px;
+    color: white;
+    margin: 16px 0;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+
+.container_RU {
+    top: 40px;
+    width: 400px;
+    background: #24303c;
+    padding: 20px;
+    margin: auto;
+    border-radius: 4px;
+    height: 400px;
+    margin-top: 70px;
+    align-items: center;
+}*/
+
+/*CSS DE REGISTRO DE USUARIO*/
+
+.container_RU {
+    width: 700px;
+    background: #24303c;
+    padding: 20px;
+    margin: auto;
+    border-radius: 4px;
+    height: auto;
+    margin-top: 60px;
+    align-items: center;
+    color: white;
+}
+
+.container_RU h4 {
+   text-align: center;
+   color: white;
+   margin-bottom: 30px;
+}
+
+.btn_ingresar {
+    width: 100%;
+    background: #1f53c5;
+    border: none;
+    padding: 12px;
+    color: white;
+    margin: 16px 0;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 35px;
+}
+
+
+.registrarse {
+    margin-left: 39%;
+}
+
+.form-check-accept {
+    margin-top: 30px;
+}
+
+#btn-registrar {
+    border: none;
+    padding: 12px;
+    color: white;
+    margin: 16px 0;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 45px;
+}
+
+/*CSS PARA COLOR DE ERRORES*/
+
+.errorCampos{
+    color: red;
+    font-style: italic;   
+}
+
+#errorNombres{
+    display: none;
+}
+
+#errorApellidos {
+    display: none;
+}
+
+#errorEmail{
+    display: none;
+}
+
+#errorPassword1{
+    display: none;
+}
+
+#errorPassword2{
+    display: none;
+}
+
+#errorConfirmPassword{
+    display: none;
+}
+
+#errorNombreUsuario{
+    display: none;
+}
+#errorNombreUsuario2{
+    display: none;
+}
+
+#errorNombreUsuario3{
+    display: none;
+}
+
+#errorTerms{
+    display: none;
+}
+
+#errorNombrePersonaje{
+    display: none;
+}
+
+#errorNombrePersonaje2{
+    display: none;
+}
+
+#errorWeightFile{
+    display: none;
+}
+
+#errorLoginUsuario{
+    display: none;
+}
+
+#errorCamposLogin{
+    display: none;
+}
+
+#errorFileEmpty{
+    display: none;
+}
+
+#errorCompletarCampos{
+    display: none;
+}
+
+#errorTipoPersonaje{
+    display: none;
+}
+
+#errorDescripcionPersonaje{
+    display: none;
+}
+
+#errorDescripcionPersonaje2{
+    display: none;
+}
+
+/* CSS DE REGISTRO DE USUARIO */
+
+.container_registroP {
+    top: 40px;
+    width: 500px;
+    background: #24303c;
+    padding: 20px;
+    margin: auto;
+    border-radius: 4px;
+    height: 600px;
+    margin-top: 20px;
+    align-items: center;
+}
+
+.container_registroP h4{
+    text-align: center;
+   color: white;
+   margin-bottom: 20px;
+}
+
+.btn_ingresar {
+    width: 100%;
+    background: #1f53c5;
+    border: none;
+    padding: 12px;
+    color: white;
+    margin: 16px 0;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 35px;
+}
+
+#description {
+    height: 150px;
+}
+
+.btnAddImage {
+    text-align: center;
+    cursor: pointer;
+    background: none;
+    border: none;
+    margin-left: 140px;
+    margin-top: 30px;
+ }
+
+ 
+
+

@@ -1,0 +1,155 @@
+body{
+    background-image: url("https://th.bing.com/th/id/OIP.NTm1rowIvVH5AeQd_VPhEwHaEK?pid=ImgDet&rs=1");
+    background-color: black;
+}
+
+
+#descripcion{
+    text-align: center;
+}
+
+.cardUno {
+    background-color: white;
+    height: 400px;
+    width: 300px;
+    border-color: black;
+    position: fixed;
+    left: 400px;
+    top: 150px;
+    border-style: outset;
+    border-radius: 10px;
+    align-items: center;
+}
+
+
+
+.cardDos{
+    background-color: white;
+    height: 400px;
+    width: 300px;
+    border-color: black;
+    position: fixed;
+    left: 850px;
+    top: 150px;
+    border-style:outset;
+    border-radius: 10px;
+    align-items: center;
+}
+
+
+
+.like {
+    
+    content: '\f141';
+    background-color: chartreuse;
+    width: 70px;
+    height: 25px;
+    cursor: pointer;
+    border-radius: 20px 20px 20px 20px;
+    top: 30px;
+    text-align: center;
+}
+
+.dislike {
+    background-color: crimson;
+    width: 70px;
+    height: 25px;
+    cursor: pointer;
+    border-radius: 20px 20px 20px 20px;
+    text-align: center;
+}
+
+.botones{
+    text-align: center;
+}
+
+
+.imagenPersonaje {
+    margin: auto auto;
+    display: block;
+    cursor: pointer;
+    border: none;
+    background: none;
+}
+
+.logoToy{
+    float: right;
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+}
+
+.container {
+    background-color: white;
+    border: solid;
+    border-radius: 10px 10px 10px 10px;
+    display: 0px auto;
+}
+
+.botones {
+    text-align: center;
+}
+
+.volver{
+    border-radius: 20px 20px 20px 20px;
+    margin-top: none;
+    cursor: pointer;
+    border: none;
+    background: none;
+}
+
+
+/*CSS DEL LOGIN*/
+
+
+.container_login {
+    top: 40px;
+    width: 400px;
+    background: #24303c;
+    padding: 20px;
+    margin: auto;
+    border-radius: 4px;
+    height: 400px;
+    margin-top: 70px;
+    align-items: center;
+}
+
+.container_login h4 {
+   text-align: center;
+   color: white;
+}
+
+.btn_ingresar {
+    width: 100%;
+    background: #1f53c5;
+    border: none;
+    padding: 12px;
+    color: white;
+    margin: 16px 0;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 35px;
+}
+
+.form-floating {
+    margin-top: 40px;
+}
+
+.registrarse {
+    margin-left: 39%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
